@@ -3,7 +3,7 @@ public static void main(){
 init();
 int x=0;
 double d=0.2;
-f(1,22,z);
+f(x,22,z);
 finialize();
 
 }
